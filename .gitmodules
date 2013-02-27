@@ -1,0 +1,3 @@
+[submodule "lambdaday2013-backbonejs"]
+	path = lambdaday2013-backbonejs
+	url = https://github.com/Lambda3/lambdaday2013-backbonejs.git
